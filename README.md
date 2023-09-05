@@ -1,6 +1,6 @@
 # Camera Chat Application
 
-This Repository contains the code for the a LiveStream Chat Project featuring Real-Time Video Communication.
+This repository contains the code for the a LiveStream Chat Project featuring Real-Time Video Communication.
 
 ## Table of Contents
 
