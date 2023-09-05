@@ -48,13 +48,12 @@ To use this script, you need the following:
    ```bash
    python3 --version
    ```
-4. Install the Vidstream Library.
+   If Python is not installed, you can download it from the official [Python website](https://www.python.org/downloads/).
+4. Install the Vidstream Library using pip:
 
    ```bash
    pip install vidstream
    ```
-
-   If Python is not installed, you can download it from the official [Python website](https://www.python.org/downloads/).
 
 5. Update the IP addresses and port numbers in the `index.py` file to match your network setup. Modify the following lines to match your network setup:
 
